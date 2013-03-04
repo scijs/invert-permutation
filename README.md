@@ -1,6 +1,6 @@
 invert-permutation
 ==================
-Computes the inverse of a permutation
+Computes the [inverse of a permutation](http://en.wikipedia.org/wiki/Permutation#Product_and_inverse)
 
 Usage
 =====

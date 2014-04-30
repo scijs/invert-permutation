@@ -1,4 +1,4 @@
-var test = require("tap").test
+var test = require("tape")
   , invert = require("../index.js")
 
 function check_array(t, a, b) {
